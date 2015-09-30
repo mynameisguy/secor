@@ -121,6 +121,7 @@ Secor is distributed under [Apache License, Version 2.0](http://www.apache.org/l
   * [Zack Dever](https://github.com/zackdever)
   * [Leo Woessner](https://github.com/estezz)
   * [Jerome Gagnon](https://github.com/jgagnon1)
+  * [Guy Hadash](https://github.com/mynameisguy)
 
 ## Companies who use Secor
 
